@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @m-polonio
+- 👀 I’m interested in music, front-end develop, and so much things...
+- 🌱 I’m currently learning Maths, Bootstrap, Vue.js
+- 📫 You can reach me on www.miguelpolonio.com
